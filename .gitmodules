@@ -1,0 +1,3 @@
+[submodule "foundry-project/lib/openzeppelin-contracts"]
+	path = foundry-project/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
